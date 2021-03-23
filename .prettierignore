@@ -1,0 +1,8 @@
+# Ignore settings files:
+/.github
+/coverage
+/dist
+.eslintrc.js
+jest.config.js
+prettier.config.js
+webpack.config.js
